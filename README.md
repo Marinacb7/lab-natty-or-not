@@ -16,7 +16,7 @@ Este **comic book** combina tecnologia e imaginação para contar uma história 
 ## 🚀 Resultados  
 O resultado é um **comic book** imersivo, que combina narrativa e visuais para transportar o leitor para o universo de *Xyron-7*. O uso de IA e design contribuiu para dar vida ao projeto de forma dinâmica e inovadora.  
 
-[**ACESSE O COMIC BOOK AQUI**](exemplos/Além das Estrelas.pdf)  
+[**ACESSE O COMIC BOOK AQUI**](projeto/além-das-estrelas.pdf)  
 
 ## 💭 Reflexão  
 Criar este comic book foi uma experiência fascinante, que mostrou como ferramentas de IA e design podem potencializar a criatividade e transformar ideias em um produto artístico completo.  
