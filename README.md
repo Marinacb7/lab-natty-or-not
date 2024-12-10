@@ -1,7 +1,7 @@
 # Além das Estrelas: Explorando Criatividade com IA 🌌  
 
 ## 📒 Descrição  
-Este **comic book** combina tecnologia e imaginação para contar uma história visualmente cativante. Criado com o auxílio de ferramentas de inteligência artificial e design, ele traz a narrativa de *"Além das Estrelas: O Mistério de Xyron-7"* com arte impressionante e um layout imersivo.  
+Para este projeto criei um **comic book** curto, que combina tecnologia e imaginação para contar uma história visualmente cativante. Criado com o auxílio de ferramentas de inteligência artificial e design, ele traz a narrativa de *"Além das Estrelas: O Mistério de Xyron-7"* com arte impressionante e um layout imersivo.  
 
 ## 🤖 Tecnologias Utilizadas  
 - **IA Generativa ChatGPT**: Para desenvolver a narrativa e gerar ideias criativas.  
